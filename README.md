@@ -2,7 +2,7 @@
 
 一键自动精读 arXiv/学术 PDF → 生成 Obsidian 笔记 → 导入 Zotero 并智能分类。
 
-> **原作者**: ZihangFeng1  
+> **原作者**: 冯子航 (ZihangFeng1)  
 > **适用平台**: [Hermes Agent](https://hermes-agent.nousresearch.com) — by [Nous Research](https://nousresearch.com)  
 > **Skill 类型**: 自动化工作流 (Academic)
 
