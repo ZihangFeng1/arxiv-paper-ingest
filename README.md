@@ -2,8 +2,8 @@
 
 一键自动精读 arXiv/学术 PDF → 生成 Obsidian 笔记 → 导入 Zotero 并智能分类。
 
-> **原作者**: [Your GitHub Name]  
-> **适用平台**: [Hermes Agent](https://hermes-agent.nousresearch.com)  
+> **原作者**: ZihangFeng1  
+> **适用平台**: [Hermes Agent](https://hermes-agent.nousresearch.com) — by [Nous Research](https://nousresearch.com)  
 > **Skill 类型**: 自动化工作流 (Academic)
 
 ---
@@ -28,7 +28,7 @@
 
 | 依赖 | 说明 |
 |------|------|
-| [Hermes Agent](https://hermes-agent.nousresearch.com) | 运行本 Skill 的 AI 环境 |
+| [Hermes Agent](https://hermes-agent.nousresearch.com) — by [Nous Research](https://nousresearch.com) | 运行本 Skill 的 AI 环境 |
 | [Zotero](https://www.zotero.org/) | 文献管理软件，**需保持运行** |
 | [Zotero MCP Plugin](https://github.com/cookjohn/zotero-mcp) | 版本 ≥ 1.5.0，**启用写操作** |
 | Python 3.10+ | 安装 `pymupdf` (`pip install pymupdf`) |
@@ -245,4 +245,4 @@ MIT License — 自由使用、修改、分发。
 
 - [Zotero MCP](https://github.com/cookjohn/zotero-mcp) — 为 AI 代理提供 Zotero 接口
 - [PyMuPDF](https://pymupdf.readthedocs.io/) — PDF 解析库
-- [Hermes Agent](https://hermes-agent.nousresearch.com) — AI 代理框架
+- [Hermes Agent](https://hermes-agent.nousresearch.com) — by [Nous Research](https://nousresearch.com) — AI 代理框架
